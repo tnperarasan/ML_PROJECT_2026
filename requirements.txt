@@ -1,0 +1,4 @@
+numpy
+pandas
+seaborn
+-e . # It automaticaly tiggers the setup.py file  {e}-means editable mode and {.}-means current folder and search for {setup.py} file
